@@ -1,6 +1,6 @@
-const colorBtn = document.getElementById("color");
-const placeBtn = document.getElementById("place");
-const ritualBtn = document.getElementById("ritual");
+const colorBtn = document.querySelector("#color");
+const placeBtn = document.querySelector("#place");
+const ritualBtn = document.querySelector("#ritual");
 
 const favoriteColor = () => {
   alert("My current favorite color is orange.");

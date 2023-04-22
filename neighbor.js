@@ -1,5 +1,5 @@
-const restaurantBtn = document.getElementById("hungry");
-const favoriteSection = document.getElementById("random");
+const restaurantBtn = document.querySelector("#hungry");
+const favoriteSection = document.querySelector("#random");
 
 const restaurants = [
   "Highland Noodles",

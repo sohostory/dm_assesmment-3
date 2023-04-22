@@ -82,6 +82,7 @@ img {
 
 .beautify-button {
   display: block;
+  position: relative;
   width: 100%;
   border: none;
   background-color: yellow;
